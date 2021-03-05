@@ -1,0 +1,12 @@
+{
+  "title": "This is a test title",
+  "storyLines": [
+    "This is a story line with a white space: {0}",
+    "This is another story line with multiple white spaces: {1} {2}"
+  ],
+  "types": [
+    "Verb",
+    "Noun",
+    "Adjective"
+  ]
+}
